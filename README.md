@@ -22,9 +22,12 @@ I design and develop full-stack websites and web apps using modern and advanced 
           </a>
 </div>
 
+<hr />
 
 <h3>Worked With</h3>
-<img src="https://user-images.githubusercontent.com/84118928/172312509-6940aa43-4e9f-41a2-997c-fc2fdcb59b3d.png" width="60%" margin="auto"/>
-<!-- ![image](https://user-images.githubusercontent.com/84118928/172312509-6940aa43-4e9f-41a2-997c-fc2fdcb59b3d.png) -->
+<img src="https://user-images.githubusercontent.com/84118928/172318199-8ba88954-cfa3-43e1-a55d-5804a4fd3cf9.png" width="60%" margin="auto"/>
+
+<hr />
+
 
 
