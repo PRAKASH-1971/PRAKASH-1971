@@ -10,6 +10,7 @@ I design and develop full-stack websites and web apps using modern and advanced 
 <hr />
 
 <h3>Follow me</h3>
+<br />
 <div style={{display:"flex",flexDirection:"row"}}>
      <a href="https://www.instagram.com/prakashdsouza1/">
      <img src="https://user-images.githubusercontent.com/84118928/172316650-89aab5cc-ed1e-4d2d-8052-537f0b57a059.png" />
@@ -25,6 +26,9 @@ I design and develop full-stack websites and web apps using modern and advanced 
 <hr />
 
 <h3>Worked With</h3>
+
+<br />
+
 <img src="https://user-images.githubusercontent.com/84118928/172318199-8ba88954-cfa3-43e1-a55d-5804a4fd3cf9.png" width="60%" margin="auto"/>
 
 <hr />
