@@ -7,13 +7,12 @@
 
 I design and develop full-stack websites and web apps using modern and advanced technologies such as Adobe XD and Figma for design, Javascript libraries such as React.JS along with HTML and CSS for the front-end, and Node.JS with database Management systems such as MySQL, MongoDB, etc. for the backend.
 
-<hr />
-
-
-<h3>Github Stats</h3>
-<div align="center" >
-<img src="https://user-images.githubusercontent.com/84118928/172597932-cfff591c-bbe0-4e9f-b964-beea2477e3d1.png" />
-     </div>
+<ul>
+     <li></li>
+     <li></li>
+     <li></li>
+     <li></li>
+</ul>
 
 <h3>Follow me</h3>
 <br />
@@ -28,6 +27,15 @@ I design and develop full-stack websites and web apps using modern and advanced 
       <img src="https://user-images.githubusercontent.com/84118928/172317348-69d0bc51-1106-4c9d-bb53-1256685834f0.png" />
           </a>
 </div>
+<hr />
+
+
+<h3>Github Stats</h3>
+<div align="center" >
+<img src="https://user-images.githubusercontent.com/84118928/172597932-cfff591c-bbe0-4e9f-b964-beea2477e3d1.png" />
+     </div>
+
+
 
 <hr />
 
