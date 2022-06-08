@@ -33,7 +33,7 @@ I design and develop full-stack websites and web apps using modern and advanced 
 
 <br />
 
-<div style={{width:"100px"}}>
+<div>
 <img src="https://user-images.githubusercontent.com/84118928/172318199-8ba88954-cfa3-43e1-a55d-5804a4fd3cf9.png" width="60%" margin="auto"/>
      </div>
 
