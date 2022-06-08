@@ -9,6 +9,10 @@ I design and develop full-stack websites and web apps using modern and advanced 
 
 <hr />
 
+
+<h3>Github Stats</h3>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRAKASH-1971&theme=radical)
+
 <h3>Follow me</h3>
 <br />
 <div style={{display:"flex",flexDirection:"row"}}>
