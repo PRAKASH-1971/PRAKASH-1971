@@ -11,7 +11,9 @@ I design and develop full-stack websites and web apps using modern and advanced 
 
 
 <h3>Github Stats</h3>
-<img align="center" src="https://user-images.githubusercontent.com/84118928/172597932-cfff591c-bbe0-4e9f-b964-beea2477e3d1.png" />
+<div align="center" >
+<img src="https://user-images.githubusercontent.com/84118928/172597932-cfff591c-bbe0-4e9f-b964-beea2477e3d1.png" />
+     </div>
 
 <h3>Follow me</h3>
 <br />
