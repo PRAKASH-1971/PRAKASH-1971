@@ -11,11 +11,11 @@ I design and develop full-stack websites and web apps using modern and advanced 
 
 
 <h3>Github Stats</h3>
-<img src="https://user-images.githubusercontent.com/84118928/172597932-cfff591c-bbe0-4e9f-b964-beea2477e3d1.png" />
+<img align="center" src="https://user-images.githubusercontent.com/84118928/172597932-cfff591c-bbe0-4e9f-b964-beea2477e3d1.png" />
 
 <h3>Follow me</h3>
 <br />
-<div style={{display:"flex",flexDirection:"row"}}>
+<div style={{display:"flex",flexDirection:"row"}} align="center">
      <a href="https://www.instagram.com/prakashdsouza1/">
      <img src="https://user-images.githubusercontent.com/84118928/172316650-89aab5cc-ed1e-4d2d-8052-537f0b57a059.png" />
      </a>
