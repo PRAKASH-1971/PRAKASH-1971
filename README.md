@@ -8,10 +8,10 @@
 I design and develop full-stack websites and web apps using modern and advanced technologies such as Adobe XD and Figma for design, Javascript libraries such as React.JS along with HTML and CSS for the front-end, and Node.JS with database Management systems such as MySQL, MongoDB, etc. for the backend.
 
 <ul>
-     <li></li>
-     <li></li>
-     <li></li>
-     <li></li>
+     <li>I am a UX / UI designer and developer with hands-on experience in building web apps.</li>
+     <li>I build websites from scratch from initial designs to development and all the way to hosting a complete production-ready software in a custom-configured server</li>
+     <li> I’m currently Working on Frontend Technology</li>
+     <li> 🖥️ I’m currently learning React Native and Typescript</li>
 </ul>
 
 <h3>Follow me</h3>
