@@ -14,7 +14,7 @@ I design and develop full-stack websites and web apps using modern and advanced 
      <li> 🖥️ I’m currently learning React Native and Typescript</li>
 </ul>
 
-<h3>Follow me</h3>
+<h4>Follow me on</h4>
 <br />
 <div style={{display:"flex",flexDirection:"row"}} align="center">
      <a href="https://www.instagram.com/prakashdsouza1/">
